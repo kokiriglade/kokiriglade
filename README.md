@@ -1,1 +1,1 @@
-<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=kokiriglade&theme=github_dark_dimmed&show_icons=true"></a>
+<a align="center"><img src="https://github-readme-stats-aqk4wgnfj-celerrys-projects.vercel.app/api?show_icons=true&username=kokiriglade&theme=transparent"></a>
